@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-import urllib
+import urllib    # python3需要把这个改成import urlib.request as urllib
 import os
 import codecs
 import socket
